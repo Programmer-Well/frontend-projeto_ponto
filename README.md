@@ -1,6 +1,6 @@
-# 🚀 Project Name
+# 🚀 Sistema de Ponto
 
-Uma breve descrição do seu projeto. (Ex: Sistema de gerenciamento de usuários com controle de ponto e rotas protegidas).
+Sistema de gerenciamento de pontos do usuario.
 
 Este projeto foi desenvolvido utilizando **React**, **TypeScript** e **Vite** para garantir uma interface rápida, tipada e escalável.
 
